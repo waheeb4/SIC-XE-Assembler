@@ -1,0 +1,1 @@
+An assembler for the SIC/XE (Simplified Instructional Computer / Extra Equipment) architecture, designed to translate assembly source code into object code that can be executed on a SIC/XE virtual machine.
