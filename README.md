@@ -1,3 +1,5 @@
+In collaboration with [Adham Waheeb](https://github.com/waheeb4)
+
 SIC/XE Two-Pass Assembler
 This project is a Python-based implementation of a two-pass assembler for the SIC/XE (Simplified Instructional Computer / Extra Equipment) architecture. It parses, processes, and assembles assembly language source code into object code, following the standard SIC/XE instruction set and addressing modes.
 
