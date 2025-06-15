@@ -8,8 +8,8 @@ This project is a Python-based implementation of a two-pass assembler for the SI
 
 🧠 Implements pass 1 to:
 
-Build the symbol table (SYMTAB)
 Calculate location counters (LOCCTR)
+Build the symbol table (SYMTAB)
 Generate an intermediate file with addresses
 
 🔄 Implements pass 2 to:
